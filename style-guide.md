@@ -3,7 +3,7 @@
 ## Layout
 
 The designs were created to the following widths:
-
+<!-- breakpoitns -->
 - Mobile: 375px
 - Desktop: 1440px
 

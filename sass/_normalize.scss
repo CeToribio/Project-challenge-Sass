@@ -1,0 +1,18 @@
+// creacion de custom porperties
+//debido a la cascada voy a poder acceder a todas las custom properties sin necesidad de referenciar al este modulo de llamar a este archivo
+:root {
+  --font-headings: "Open Sans", sans-serif;
+  --font-main: "Poppins", sans-serif;
+
+  --violet: hsl(257, 40%, 49%);
+  --soft-magenta: hsl(300, 69%, 71%);
+}
+// todos los elementos
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+ 
+body {
+  font-family: var(--font-main);
+}

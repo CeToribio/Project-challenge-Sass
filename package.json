@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CeToribio/Project-challenge-Sass/issues"
   },
-  "homepage": "https://github.com/CeToribio/Project-challenge-Sass#readme"
+  "homepage": "https://github.com/CeToribio/Project-challenge-Sass#readme",
+  "devDependencies": {
+    "sass": "^1.62.0"
+  }
 }
